@@ -7,7 +7,8 @@ This is a simple Python tutorial that will let you get up to speed.
 ### MacOS
 
 ```bash
-brew install python3 pyenv-virtualenv
+brew install python3
+pip3 install virtualenv
 ```
 
 ### Linux
