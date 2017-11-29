@@ -14,7 +14,8 @@ pip3 install virtualenv
 ### Linux
 
 ```bash
-apt install python3 python3-virtualenv
+apt install python3
+pip install virtualenv
 ```
 
 ## Now what?
